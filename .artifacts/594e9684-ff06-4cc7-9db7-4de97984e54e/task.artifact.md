@@ -1,0 +1,4 @@
+- [ ] Implement `FriendsScreen` with `isActive` refresh logic
+- [ ] Use `Wrap` for "In class" section to prevent overflows
+- [ ] Update `MainScreen` to pass `isActive` to `FriendsScreen`
+- [ ] Verify UI and functionality
